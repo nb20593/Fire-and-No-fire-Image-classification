@@ -16,7 +16,7 @@ link to dataset :https://www.kaggle.com/phylake1337/fire-dataset
 * numpy
 * pandas
 * matplotlib
-* 
+
 ## Results
 Inceptionv3 model really performed well on binary classification and 97% validation accuracy is achieved
 [results](https://github.com/nb20593/Fire-and-No-fire-Image-classification/blob/main/Loss%20vs%20Accuracy.png)
