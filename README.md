@@ -26,4 +26,4 @@ ouput from the inception v3 is given to flatten layer and ouput from flatten lay
 
 ## Results
 Inceptionv3 model really performed well on binary classification and 97% validation accuracy is achieved
-[results](https://github.com/nb20593/Fire-and-No-fire-Image-classification/blob/main/Loss%20vs%20Accuracy.png)
+![results](https://github.com/nb20593/Fire-and-No-fire-Image-classification/blob/main/Loss%20vs%20Accuracy.png)
